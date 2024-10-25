@@ -9,7 +9,7 @@ description:      ''
 url:              https://Hriel615.github.io
 baseurl:          '/Blog-Assignment/'
 author: Hannah
-email: replace@gmail.com
+email: rielh@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
